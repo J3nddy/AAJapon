@@ -34,7 +34,7 @@ nav a:hover {
 }
 
 .productos {
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
